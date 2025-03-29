@@ -40,7 +40,7 @@ For additional parameters, please refer to the paper or the configuration files 
 
 | Method | GPU Hours | Alpaca-Eval 2.0 LC (%) |
 |--------|-----------|---------------------------------|
-| DPO    | 8.1240    | 43.77                           |
+| DPO    | 8.7856    | 43.77                           |
 | SimPO  | 7.2672    | 44.94                           |
 | PAD    | 7.2884    | 45.73                           |
 
